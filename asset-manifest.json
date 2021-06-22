@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://soumen-ui.github.io/csb-r0h4b/static/css/main.44646a49.chunk.css",
+    "main.js": "https://soumen-ui.github.io/csb-r0h4b/static/js/main.6c70afed.chunk.js",
+    "main.js.map": "https://soumen-ui.github.io/csb-r0h4b/static/js/main.6c70afed.chunk.js.map",
+    "runtime-main.js": "https://soumen-ui.github.io/csb-r0h4b/static/js/runtime-main.ec57d42e.js",
+    "runtime-main.js.map": "https://soumen-ui.github.io/csb-r0h4b/static/js/runtime-main.ec57d42e.js.map",
+    "static/js/2.a2d9cf46.chunk.js": "https://soumen-ui.github.io/csb-r0h4b/static/js/2.a2d9cf46.chunk.js",
+    "static/js/2.a2d9cf46.chunk.js.map": "https://soumen-ui.github.io/csb-r0h4b/static/js/2.a2d9cf46.chunk.js.map",
+    "index.html": "https://soumen-ui.github.io/csb-r0h4b/index.html",
+    "precache-manifest.434c21b6bb6c9f8374dff0b8460f041b.js": "https://soumen-ui.github.io/csb-r0h4b/precache-manifest.434c21b6bb6c9f8374dff0b8460f041b.js",
+    "service-worker.js": "https://soumen-ui.github.io/csb-r0h4b/service-worker.js",
+    "static/css/main.44646a49.chunk.css.map": "https://soumen-ui.github.io/csb-r0h4b/static/css/main.44646a49.chunk.css.map",
+    "static/js/2.a2d9cf46.chunk.js.LICENSE.txt": "https://soumen-ui.github.io/csb-r0h4b/static/js/2.a2d9cf46.chunk.js.LICENSE.txt",
+    "static/media/bnn1.jpg": "https://soumen-ui.github.io/csb-r0h4b/static/media/bnn1.a8eb40b5.jpg",
+    "static/media/gg.jpg": "https://soumen-ui.github.io/csb-r0h4b/static/media/gg.10bf26fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec57d42e.js",
+    "static/js/2.a2d9cf46.chunk.js",
+    "static/css/main.44646a49.chunk.css",
+    "static/js/main.6c70afed.chunk.js"
+  ]
+}
